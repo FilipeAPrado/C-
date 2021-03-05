@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.exe
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.deps.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.runtimeconfig.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.dll
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\Quadrado e ao Cubo.pdb
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.dll
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.pdb
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\Quadrado e ao Cubo\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\Quadrado e ao Cubo.genruntimeconfig.cache

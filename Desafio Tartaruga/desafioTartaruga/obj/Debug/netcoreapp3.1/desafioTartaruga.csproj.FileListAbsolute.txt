@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.exe
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.deps.json
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.runtimeconfig.json
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.dll
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\bin\Debug\netcoreapp3.1\desafioTartaruga.pdb
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.dll
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.pdb
+C:\Users\Filipe\Desktop\calls\desafioTartaruga\desafioTartaruga\obj\Debug\netcoreapp3.1\desafioTartaruga.genruntimeconfig.cache

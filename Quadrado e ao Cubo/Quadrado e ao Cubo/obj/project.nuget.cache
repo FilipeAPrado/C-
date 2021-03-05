@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oi9VJafWeoWzN1qMaDbAEku8V5+vuM08wbs5lj2snnc7kOY+GT5zlwhs4gSxxNZsMJOFK4KmPHky+gKRQXfVyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filipe\\Desktop\\Projetos\\desafios\\Csharp\\Quadrado e ao Cubo\\Quadrado e ao Cubo\\Quadrado e ao Cubo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
