@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.exe
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.deps.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.runtimeconfig.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.dll
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\bin\Debug\netcoreapp3.1\UltrapassandoV.pdb
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.dll
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.pdb
+C:\Users\Filipe\Desktop\Projetos\desafios\Csharp\UltrapassandoV\UltrapassandoV\obj\Debug\netcoreapp3.1\UltrapassandoV.genruntimeconfig.cache

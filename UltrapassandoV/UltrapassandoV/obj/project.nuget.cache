@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fg1t9E7kHtAaxfAOLS5qIs4nncwBWSFhPa6tnwf+Fc+9ccME17xvJf5jAbnODXVX0t/yCrTAkNCZdRXjeorpKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filipe\\Desktop\\Projetos\\desafios\\Csharp\\UltrapassandoV\\UltrapassandoV\\UltrapassandoV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
